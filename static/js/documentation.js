@@ -60,6 +60,15 @@ $(function() {
 
     return false
   })
+  
+  // hide unwanted items on the sidebar
+  if($('.js-subtopic.disable:visible').length > 0){
+	  // hide all other subtopics
+	  $('.js-subtopic:visible:not(.js-subtopic.disable:visible) > ul').hide();
+  }else if($('.js-subguides .disable').length > 0){
+	  $('.js-subtopic:visible:not(.js-subtopic.disable:visible) > ul').
+	  	not($('.js-subguides .disable').parent()).hide();
+  }
 
   $('.help-search .search-box').focus(function(){
     $(this).css('background-position','0px -25px')
