@@ -1,4 +1,4 @@
 cf-docs-tutorials
 =================
 
-CF DOCS TUTORIAL
+CF DOCS TUTORIALS
