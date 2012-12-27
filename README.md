@@ -1,4 +1,4 @@
 cf-docs-tutorials
 =================
 
-CF DOCS TUTORIALS
+Cloud Foundry DOCS TUTORIALS
