@@ -96,9 +96,7 @@ da5857027ab844d7d9f474ceaf196c9d0=> \dt
  public | expense       | table | u4d59d15759c4460285dc892b72ef6fcb
  public | expensereport | table | u4d59d15759c4460285dc892b72ef6fcb
  public | expensetype   | table | u4d59d15759c4460285dc892b72ef6fcb
- public | role          | table | u4d59d15759c4460285dc892b72ef6fcb
- public | users         | table | u4d59d15759c4460285dc892b72ef6fcb
-(6 rows)
+(4 rows)
 ```
 
 ## Accessing PostgreSQL on Cloud Foundry via STS
