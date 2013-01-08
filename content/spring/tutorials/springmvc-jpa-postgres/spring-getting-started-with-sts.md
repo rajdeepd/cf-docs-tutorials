@@ -45,12 +45,6 @@ The Spring Framework provides a comprehensive programming and configuration mode
                 <td><a href='/code/tutorials/springmvc-jpa-postgres/Exercise2-Starter.zip'>Exercise2-Starter.zip</a></td>
                 <td><a href='/code/tutorials/springmvc-jpa-postgres/Exercise2-Complete.zip'>Exercise2-Complete.zip</a></td>
             </tr>
-            <tr>
-                <td>3</td>
-                <td><a href='/spring/tutorials/springmvc-jpa-postgres/expensereport-app-with-spring-security.html'>Add Spring Security to Spring MVC Application</a></td>
-                <td><a href='/code/tutorials/springmvc-jpa-postgres/Exercise3-Starter.zip'>Exercise3-Starter.zip</a></td>
-                <td><a href='/code/tutorials/springmvc-jpa-postgres/Exercise3-Complete.zip'>Exercise3-Complete.zip</a></td>
-            </tr>
     </tbody>
 </table>
 
