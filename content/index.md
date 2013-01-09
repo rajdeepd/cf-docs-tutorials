@@ -16,8 +16,8 @@ There are instances, however, when your application will need minimal configurat
 
 Each application framework has its own configuration process, described in the following sections:
 
-+ [Spring Applications](/spring/spring.html)
-+ [Ruby, Rails and Sinatra](/ruby/ruby-rails-sinatra.html)
++ [Spring Applications](/spring/tutorials/overview.html)
++ [Ruby, Rails and Sinatra](/ruby/rails-tutorial/overview.html)
 
 <!---  [Grails Applications](/frameworks/java/spring/grails.html)
  [Node.js Applications](/frameworks/nodejs/nodejs.html) -->
