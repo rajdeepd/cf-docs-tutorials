@@ -16,7 +16,7 @@ This is a guide for Ruby developers to create an application using Rails-3.2.9 f
 
 This guide makes the following assumptions:
 
-+ [Ruby 1.9.2 or above](https://rvm.io/rubies/installing/) and [Rails 3.2](https://github.com/rails/rails) framework has been installed.
++ [Ruby 1.9.2](https://rvm.io/rubies/installing/) and [Rails 3.2](https://github.com/rails/rails) framework has been installed.
 + [Redis](http://redis.io/download) is installed.
 
 

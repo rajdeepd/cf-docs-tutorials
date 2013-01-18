@@ -13,7 +13,7 @@ This section introduces the Expense Report application. It teaches you how to ge
 
 ##Prerequisites
 
-+ [Ruby 1.9.2 or above](https://rvm.io/rubies/installing/) and [Rails 3.2](https://github.com/rails/rails) framework has been installed.
++ [Ruby 1.9.2](https://rvm.io/rubies/installing/) and [Rails 3.2](https://github.com/rails/rails) framework has been installed.
 + [Redis](http://redis.io/download) is installed.
 + [rvm](https://rvm.io/) is installed.
 
