@@ -48,7 +48,7 @@ Concepts covered in this tutorial are listed below
     </tr>
     <tr>
       <td>3</td>
-      <td><a href='/ruby/rails-tutorial/postgres/rails-redis-expense-user-flow.html'>Adding user workFlow to the application</a></td>
+      <td><a href='/ruby/rails-tutorial/redis/rails-redis-expense-user-flow.html'>Adding user workFlow to the application</a></td>
       <td><a href='/rails-code/expense-report-redis/Exercise3-starter.zip'>Exercise3-Starter.zip</a></td>
       <td><a href='/rails-code/expense-report-redis/Exercise3-complete.zip'>Exercise3-Complete.zip</a></td>
     </tr>
